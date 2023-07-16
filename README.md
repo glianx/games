@@ -10,3 +10,5 @@ Minesweeper - don't step on a mine!
 ![alt text](minesweeper.gif)
 
 Tic Tac Toe - play the unbeatable minimax algorithm!
+
+Wordle - play Wordle in your Terminal!
