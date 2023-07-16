@@ -77,7 +77,7 @@ for x in range(10):
     for y in range(10):
         d[10*x+y] = Square(x*side,y*side,'medium sea green',9,'covered')
         d[10*x+y].draw()
-        if random.randrange(4) == 0:
+        if random.randrange(6) == 0:
             d[10*x+y].fillcolor = 'dimgrey'
             d[10*x+y].number = 10
             safesquares -= 1
