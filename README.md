@@ -3,7 +3,7 @@ Classic games like Minesweeper, 15 Puzzle, Tic Tac Toe
 
 Minesweeper - don't step on a mine!
 
-![alt text](minesweeper.gif)
+![alt text](minesweeper2.gif)
 
 15 Puzzle - slide the tiles!
 
